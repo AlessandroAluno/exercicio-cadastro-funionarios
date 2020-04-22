@@ -77,6 +77,7 @@ public class ProgramaLista {
         }
 
         sc.close();
+        
     }
 
 }
